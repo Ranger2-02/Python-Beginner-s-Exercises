@@ -1,0 +1,5 @@
+#Print a blank line between two sentences
+
+print("This is Sparta!")
+print()
+print("Yeah, I think I'm BACK!!)
