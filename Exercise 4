@@ -1,0 +1,2 @@
+# Print the result of 5 + 3 directly inside print()
+print(5 + 3)
