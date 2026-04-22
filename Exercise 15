@@ -1,0 +1,5 @@
+# Print a simple box border made up of '*'
+print("*" * 9)
+print("*\t*"
+print("*\t*"
+print("*" * 9)
