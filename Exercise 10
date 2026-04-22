@@ -1,0 +1,4 @@
+#Print a tab-indented list of 3 items
+fruit_list = ["apples", "bananas", "strawberries"]
+print("\t", fruit_list)
+
