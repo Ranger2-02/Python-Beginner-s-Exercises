@@ -1,0 +1,4 @@
+#Print your full namae using two separate variables
+name = "John"
+last_name = "Wick"
+print(name, last_name)
