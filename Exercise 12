@@ -1,0 +1,4 @@
+#Print a sentence 5 times using a for loop
+sentence = "This is Sparta!!"
+for sent in range(5):
+  print(sentence)
