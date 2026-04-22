@@ -1,0 +1,3 @@
+#print a text using and escape character for a new line
+
+print("The big brown fox \n Jumped over the fence")
